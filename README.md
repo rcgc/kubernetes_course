@@ -1,1 +1,2 @@
 # kubernetes_course
+Source files from the course: [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900) taught by [Kim Schlesinger](https://www.linkedin.com/learning/instructors/kim-schlesinger?u=76737724).
